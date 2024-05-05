@@ -1,0 +1,102 @@
+/* @font-face {
+    font-family: "NotoSansKR";
+    src: url(../fonts/NotoSansKR-Regular-Hestia.woff);
+    font-weight: 400;
+
+} */
+
+
+/* KBO Dia Gothic
+    https://noonnu.cc/font_page/1146#google_vignette 
+    https://www.koreabaseball.com/Reference/etc/KboFont.aspx
+*/
+@font-face {
+    font-weight: 300;
+    font-style: normal;
+    font-family: 'KBO Dia Gothic';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2304-2@1.0/KBO-Dia-Gothic_light.woff') format('woff');
+    /* 500 */
+}
+
+@font-face {
+    font-weight: 500;
+    font-style: normal;
+    font-family: 'KBO Dia Gothic';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2304-2@1.0/KBO-Dia-Gothic_medium.woff') format('woff');
+}
+
+@font-face {
+    font-weight: 700;
+    font-style: normal;
+    font-family: 'KBO Dia Gothic';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2304-2@1.0/KBO-Dia-Gothic_bold.woff') format('woff');
+}
+
+
+/* https://befonts.com/monument-extended-font-family.html */
+@font-face {
+    font-weight: 400;
+    font-family: "Monument Extended";
+    src: url(../fonts/MonumentExtended-Regular.otf);
+}
+
+
+/* 
+    https://uiweb.tistory.com/57 
+    https://m.blog.naver.com/thelineart/222996079841
+*/
+@font-face {
+    font-weight: 400;
+    font-family: 'AppleSDGothicNeo';
+    src: url(../fonts/AppleSDGothicNeoR.ttf) format('woff');
+}
+
+@font-face {
+    font-family: 'AppleSDGothicNeo';
+    font-weight: 500;
+    src: url(../fonts/AppleSDGothicNeoM.ttf) format("woff2");
+}
+
+@font-face {
+    font-family: 'AppleSDGothicNeo';
+    font-weight: 600;
+    src: url(../fonts/AppleSDGothicNeoSB.ttf) format("woff2");
+}
+
+@font-face {
+    font-family: 'AppleSDGothicNeo';
+    font-weight: 700;
+    src: url(../fonts/AppleSDGothicNeoB.ttf) format("woff2");
+}
+
+@font-face {
+    font-family: 'AppleSDGothicNeo';
+    font-weight: 800;
+    src: url(../fonts/AppleSDGothicNeoEB.ttf) format("woff2");
+}
+
+
+/* @font-face {
+    font-family: 'AppleSDGothicNeo';
+    font-weight: 100;
+    src: url(../fonts/AppleSDGothicNeoT.woff2) format("woff2");
+}
+
+@font-face {
+    font-family: 'AppleSDGothicNeo';
+    font-weight: 200;
+    src: url(../fontsAppleSDGothicNeoUL.woff2) format("woff2");
+}
+
+@font-face {
+    font-family: 'AppleSDGothicNeo';
+    font-weight: 300;
+    src: url(../fontsAppleSDGothicNeoL.woff2) format("woff2");
+} 
+
+@font-face {
+    font-family: 'AppleSDGothicNeo';
+    font-weight: 900;
+    src: url(../fonts/AppleSDGothicNeoH.ttf) format("woff2");
+}
+*/
